@@ -66,6 +66,6 @@ Author
 
 Teino Boswell (teino@live.com)
 
-Teino1978-Corp-index.html-codepen: https://github.com/Teino1978-Corp/Teino1978-Corp-index.html-codepen
+Teino1978-Corp-index.html-codepen: https://github.com/Teino1978-Corp/Teino1978-Corp-index.html-codepen;
 Github:  https://gist.github.com/Teino1978-Corp/forked 
 
