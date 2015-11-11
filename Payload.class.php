@@ -8,7 +8,7 @@
  * 
  * Make sure this script has sufficient rights to run git
  *
- * @author Tamas Kalman <teino@>
+ * @author Teino Boswell <teino@live.com>
  */
 Class Payload
 {
